@@ -4,8 +4,12 @@ html{
     padding:0;
 }
 body{
-    width:100%;
-    margin:30px auto;
+    /*width:1366%;*/
+    width:90%;
+    margin:auto;
+    min-width:600px;
+    max-width:2000px
+    /*margin:30px auto;*/
     padding:0;
     background-color:#fff;
     /* CSS3 BOX shadow (http://www.css3.info/preview/box-shadow/)*/
