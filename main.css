@@ -16,7 +16,7 @@ body{
 
 
 /* Tell the browser to render HTML 5 elements as block */
-header, footer, aside, nav, section {
+header, footer, aside, nav, article, section {
     display: block;
 }
 
@@ -53,7 +53,7 @@ header h2{
 
 article{
     padding:30px;
-    width:auto;
+    width:1066px;
     float:right;
     /*border-bottom:1px solid #ebebeb;*/
 }
