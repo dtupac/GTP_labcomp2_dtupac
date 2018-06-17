@@ -16,7 +16,7 @@ body{
 
 
 /* Tell the browser to render HTML 5 elements as block */
-header, footer, aside, nav, article, section {
+header, footer, aside, nav, section {
     display: block;
 }
 
